@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="title_activity_secondary">SecondaryActivity</string>
+    <string name='title_main_page'>Contatore</string>
+    <string name="counter1">0</string>
+    <string name="counter2">0</string>
+</resources>
